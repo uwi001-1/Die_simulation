@@ -12,10 +12,3 @@ A lightweight Object-Oriented Programming (OOP) project built in Java to demonst
 * **Inheritance:** `LoadedDie` inherits properties and methods from `Die`.
 * **Method Overriding:** Customizing the `roll()` behavior in the subclass.
 * **Encapsulation:** Utilizing `protected` access modifiers for seamless parent-child data sharing.
-
-## 💻 How to Run
-1. Clone the repository or download the source files.
-2. Compile all files in your terminal or IDE:
-   ```bash
-   javac Die.java LoadedDie.java TestLoadedDie.java
-   
